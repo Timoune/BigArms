@@ -1,0 +1,1 @@
+Named Pipe server with telemetry support
