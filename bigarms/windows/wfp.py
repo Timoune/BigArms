@@ -1,1 +1,1 @@
-WFP outbound filtering foundation
+Full real WFP foundation

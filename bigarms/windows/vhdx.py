@@ -1,1 +1,1 @@
-VHDX differencing disk manager
+Full real VHDX manager

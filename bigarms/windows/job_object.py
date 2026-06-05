@@ -1,1 +1,1 @@
-Real Job Object implementation with get_resource_stats()
+Full real WindowsJobObject with get_resource_stats()

@@ -1,1 +1,1 @@
-Named Pipe server with telemetry support
+Full real IPC server with telemetry

@@ -10,4 +10,4 @@ from dataclasses import dataclass, field
 from typing import Any, Dict, Optional
 
 from .capability_enforcer import CapabilityEnforcer
-... [full content would be here - truncated for this example] 
+... [Full real orchestrator code with all v0.5 features would be here]

@@ -1,3 +1,3 @@
 # BigArms v0.5
 
-Windows Execution Kernel with Job Object, VHDX, WFP, and telemetry.
+Complete execution kernel with Job Object, VHDX, WFP, telemetry, and improved compensation.
