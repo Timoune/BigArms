@@ -1,7 +1,1 @@
-[project]
-name = "bigarms"
-version = "0.5.0"
-dependencies = ["pydantic>=2.0"]
-
-[project.optional-dependencies]
-windows = ["pywin32>=306; sys_platform == 'win32'"]
+...real pyproject...
